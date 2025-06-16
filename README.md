@@ -31,7 +31,7 @@ It aims to provide insights into the distribution and trends of movies and TV sh
 3. Open and run `netflix_analysis_annotated.ipynb` in Jupyter or Google Colab
 
 ##  Sample Visuals
-> Screenshots of the plots are in the "plots" folder
+   Screenshots of the plots are in the "plots" folder
 
 ##  Author
 [Yurii Chechur](https://github.com/DusiEkler)
