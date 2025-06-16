@@ -1,4 +1,4 @@
-# 🎬 Netflix Content Analysis
+#  Netflix Content Analysis
 
 This project explores the Netflix Titles dataset using Python, Pandas, and Matplotlib.  
 It aims to provide insights into the distribution and trends of movies and TV shows added to Netflix.
